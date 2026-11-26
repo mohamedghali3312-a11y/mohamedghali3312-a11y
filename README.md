@@ -1,3 +1,18 @@
+---
+
+## Commercial Licensing & B2B Consulting (IP Registered)
+
+In addition to the open-source formal proofs in Lean 4 above, proprietary high-throughput implementations and custom formal verification services are available under commercial non-exclusive licensing:
+
+- **Registered Software IP:** Protected via official French National Institute of Industrial Property deposit — **INPI e-Soleau No. `DSO2026046588`** (dated November 25, 2026).
+- **Available Engines & Modules:**
+  - Division-free Proth / K-RED Number Theoretic Transform (NTT) parallel Numba kernels for bit-exact causal signal processing and cross-correlation.
+  - Formally verified Safe-AI & risk control invariants in **pure Lean 4** (zero external dependencies, zero `sorryAx`).
+- **Fixed-Price Consulting & Licensing Inquiries:**
+  - **Malt Profile (France / Europe):** [malt.fr/profile/mohamedghali1](https://malt.fr)
+  - **GitHub Sponsors:** [://github.com](https://://github.com)
+  - **Researcher ORCID:** [0009-0006-3364-5341](https://orcid.org)
+
 # Mohamed Ghali — Mathématiques Constructives, Vérification Formelle (Lean 4) & Algorithmique Certifiée
 
 [![ORCID](https://shields.io)](https://orcid.org)
